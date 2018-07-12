@@ -1,0 +1,10 @@
+
+body {
+	background-color:white;
+font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.FixCloud-pos{
+  background:rgb(45,62,80);
+  min-height: calc(100vh - 170px);
+}
+

@@ -1,0 +1,14 @@
+.AppBar-Container-color{
+    background-color:rgba(0,0,0,0.0)!important;
+    box-shadow:none!important;
+}
+    .root {
+        flex-Grow: 1;
+    }
+    .flex {
+        flex: 1;
+    }
+    .menuButton {
+        margin-Left: -12;
+        margin-Right: 20;
+    }
